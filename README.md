@@ -6,9 +6,9 @@ The 'Mobile App Contest' segment of the 'Online Innovation Fest' hosted by CSE D
 Due to the COVID-19 pandemic, providing and managing the humanitarian services become a crucial concern around the globe. Thus, the innovative apps that address the humanitarian services under COVID-19 pandemic are mostly welcomed in this category. For example: COVID-19 relief and information, medical aid or food relief during or after this pandemic, blood banks, donating excess foods, remote health services, vaccination management, clothes, and medics. However, any other innovative apps providing humanitarian services like disaster management, assistive apps for disabled /visually impaired people, and providing the fastest route in emergency situations.
 
 ## Team Members:
-1. Abid Ahmed GithubLink: <a src="https://github.com/AbidAhmed2018831062">AbidAhmed2018831062</a>
-2. Fahim Islam GithubLinl: <a src="https://github.com/mdfahimislam">Fahim Islam</a>
-3. Md Sabit Islam Github Link: <a src="https://guthub.com/SIB61">Md Sabit</a>
+1. Abid Ahmed GithubLink: <a href="https://github.com/AbidAhmed2018831062">AbidAhmed2018831062</a>
+2. Fahim Islam GithubLink: <a href="https://github.com/mdfahimislam">Fahim Islam</a>
+3. Md Sabit Islam Github Link: <a href="https://guthub.com/SIB61">Md Sabit</a>
 
 ## Our Solution: 
 
