@@ -1,5 +1,5 @@
 ## MIST ICT-innovation-fest 2021
-The 'Mobile App Contest' segment of the 'Online Innovation Fest' hosted by CSE Department, MIST is giving you the opportunity to shine.
+The 'Mobile App Contest' segment of the 'Online Innovation Fest' hosted by CSE Department, MIST is giving you the opportunity to shine. We were the runners up in the Category of "Humanitarian Services under COVID-19".
 ## Mobile App Contest
 
 ## Category: Humanitarian Services under COVID-19
