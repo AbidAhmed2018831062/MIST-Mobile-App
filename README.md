@@ -8,7 +8,7 @@ Due to the COVID-19 pandemic, providing and managing the humanitarian services b
 ## Team Members:
 1. Abid Ahmed GithubLink: <a href="https://github.com/AbidAhmed2018831062">AbidAhmed2018831062</a>
 2. Fahim Islam GithubLink: <a href="https://github.com/mdfahimislam">Fahim Islam</a>
-3. Md Sabit Islam Github Link: <a href="https://guthub.com/SIB61">Md Sabit</a>
+3. Md Sabit Islam Github Link: <a href="https://github.com/SIB61">Md Sabit</a>
 
 ## Our Solution: 
 
